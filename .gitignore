@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.log
+
+# Никто не читает закомментированные строки, правда?
+# secret_dark_flag = FLAG{OSINT100CTFF}
