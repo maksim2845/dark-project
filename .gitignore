@@ -4,4 +4,4 @@ __pycache__/
 *.log
 
 # Никто не читает закомментированные строки, правда?
-# secret_dark_flag = FLAG{OSINT100CTFF}
+# secret_dark_flag = FLAG{10.12.2025WWWWCTFF}
